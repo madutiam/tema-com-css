@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Crimson+Text&display=swap');
+body {
+    color: #141111;
+    background-color: #ece0f3;
+    font-size: 30px;
+    font-family: 'Crimson Text', serif;
+} 
+
+main#container {
+    padding: 30px;
+     border-width: 20px; border-style: solid; border-color: #2e0342; background-color: azure;
+
+}
+
+h1.titulo {
+    color: #7c015393;
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+}
+
+p.frase {
+    font-size: 26px;
+    font-family: 'Anton', sans-serif;
+
+
+}
+
+p.autor {
+    font-size: 25px;
+    font-family: 'Crimson Text', serif;
+}
